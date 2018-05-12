@@ -1,0 +1,32 @@
+_repo: Fashion-and-Famine_40114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephens, Ann S. (Ann Sophia)
+    aliases:
+    - Slick, Jonathan
+    - Stephens, Ann Sophia Winterbotham
+    birthdate: 1810
+    deathdate: 1886
+    gutenberg_agent_id: '3257'
+    url: http://www.gutenberg.org/2009/agents/3257
+description: A "big-city melodrama" which tells the story of Ada Wilcox Leicester,
+  an innocent country girl who allows herself to be seduced and corrupted by her aspirations
+  for material wealth. Ada later redeems herself by transforming her grand house into
+  a home for destitute gentlewomen.
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Fashion and Famine
+url: http://www.gutenberg.org/ebooks/40114
